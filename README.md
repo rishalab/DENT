@@ -17,4 +17,4 @@ Have [Python 3.x](https://www.python.org/downloads/) installed in your system.
 Ex: [https://stackoverflow.com/questions/67452064/](https://stackoverflow.com/questions/67452064/) 
 
 # Important Links
-1. [Tool Website](https://tritims.github.io/eTagger/)
+1. [Tool Website](https://rishalab.github.io/DENT/)
