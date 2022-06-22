@@ -1556,3 +1556,7 @@ select {
 .screenshot-list {
   list-style: none !important;
 }
+
+.image {
+  max-width: 500px;
+}
